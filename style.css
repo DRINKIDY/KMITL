@@ -91,7 +91,7 @@ body {
     color: #ffffff;
     font-style: italic;
     font-weight: 900;
-    line-height: 15px;
+    line-height: 15px;   
 }
 
 .t4 {
@@ -107,6 +107,8 @@ body {
 .box-header {
     display: flex;
     padding: 15px;
+    align-items: center;
+    justify-content: space-between;
     background: #000000;
     color: #ffffff;
     border-radius: 10px 10px 0 0;
@@ -177,3 +179,4 @@ body {
 .footer {
     display: flex;
 }
+
